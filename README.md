@@ -32,7 +32,7 @@
  - Powerpoint
  - Photoshop
  - Figma
- - Justinmind((https://github.com/gh-develop/Smart-cart-based-on-deep-learning-object-recognition/tree/master/front-end/prototype))
+ - [Justinmind](https://github.com/gh-develop/Smart-cart-based-on-deep-learning-object-recognition/tree/master/front-end/prototype)
 
 
 
