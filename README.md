@@ -16,8 +16,8 @@
  - C
  - Python
  - JAVA
- - PHP
- - JavaScript
+ - [PHP](https://github.com/gh-develop/Smart-cart-based-on-deep-learning-object-recognition/tree/master/front-end/android_studio/php)
+ - [JavaScript](https://github.com/gh-develop/just-cart-out_web)
  - SQL
 
 
@@ -32,6 +32,7 @@
  - Powerpoint
  - Photoshop
  - Figma
+ - Justinmind((https://github.com/gh-develop/Smart-cart-based-on-deep-learning-object-recognition/tree/master/front-end/prototype))
 
 
 
